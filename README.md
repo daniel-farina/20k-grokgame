@@ -2,6 +2,8 @@
 
 A browser-based X-Wing space combat game — ~20k lines of working code generated as a test of the Grok build CLI.
 
+![X-Wing Combat title screen](screenshot.png)
+
 ## Play
 
 Open the [live demo on GitHub Pages](https://daniel-farina.github.io/20k-grokgame/) or open `index.html` locally in a browser.
