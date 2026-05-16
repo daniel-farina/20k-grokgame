@@ -4,7 +4,7 @@ A browser-based X-Wing space combat game — ~20k lines of working code generate
 
 ## Play
 
-Open the [live demo on GitHub Pages](https://daniel-farina.github.io/grok-4-baup/) or open `index.html` locally in a browser.
+Open the [live demo on GitHub Pages](https://daniel-farina.github.io/20k-grokgame/) or open `index.html` locally in a browser.
 
 ## About
 
